@@ -1,3 +1,5 @@
+**Please push your changes to a branch named notebook_number/question_part**
+
 # Homework 1
 
 Open and run the notebooks from this directory. Keep the `lib` folder beside them.
