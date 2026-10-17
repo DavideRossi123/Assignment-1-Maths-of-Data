@@ -2,4 +2,5 @@
 .Rhistory
 __pycache__/
 *.pyc
-cifar-10-python.tar.gz
+*.tar.gz
+lib/data/
