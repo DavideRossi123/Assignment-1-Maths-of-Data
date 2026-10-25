@@ -2,3 +2,5 @@
 .Rhistory
 __pycache__/
 *.pyc
+lib/data/
+lib/data/
