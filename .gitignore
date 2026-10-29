@@ -1,16 +1,7 @@
 .DS_Store
 .Rhistory
 __pycache__/
-<<<<<<< HEAD
 *.pyc
 *.tar.gz
 lib/data/
-=======
-<<<<<<< HEAD
-*.pyc
-lib/data/
-lib/data/
-=======
-*.pyc
->>>>>>> 8ea3a6a9efdfe8b16f6f925a9385d53e2e5d04d9
->>>>>>> notebook_1/all_done
+
