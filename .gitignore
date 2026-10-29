@@ -1,4 +1,6 @@
 .DS_Store
 .Rhistory
-/lib/data
+__pycache__/
 *.pyc
+*.tar.gz
+lib/data/
